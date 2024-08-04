@@ -1,1 +1,2 @@
 # Power-BI-Hotel-Churan-Analysis
+Leveraging Power BI Desktop and Power BI Service, this project delves into customer churn in the banking sector through detailed reports and interactive dashboards. By analyzing trends among active vs. inactive customers, credit card holders vs. non-holders, and gender, it delivers actionable insights and regional variations to drive informed decision-making and enhance customer strategies.
